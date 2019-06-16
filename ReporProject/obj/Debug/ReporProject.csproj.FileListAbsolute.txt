@@ -1,0 +1,16 @@
+C:\Users\alper\source\repos\ReporProject\ReporProject\bin\Debug\ReporProject.exe.config
+C:\Users\alper\source\repos\ReporProject\ReporProject\bin\Debug\ReporProject.exe
+C:\Users\alper\source\repos\ReporProject\ReporProject\bin\Debug\ReporProject.pdb
+C:\Users\alper\source\repos\ReporProject\ReporProject\obj\Debug\ReporProject.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\ReporProject\ReporProject\obj\Debug\ReporProject.Properties.Resources.resources
+C:\Users\alper\source\repos\ReporProject\ReporProject\obj\Debug\ReporProject.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\ReporProject\ReporProject\obj\Debug\ReporProject.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\ReporProject\ReporProject\obj\Debug\ReporProject.exe
+C:\Users\alper\source\repos\ReporProject\ReporProject\obj\Debug\ReporProject.pdb
+C:\Users\alper\source\repos\ReporProject\ReporProject\bin\Debug\ExcelDataReader.dll
+C:\Users\alper\source\repos\ReporProject\ReporProject\bin\Debug\ReportLibrary.dll
+C:\Users\alper\source\repos\ReporProject\ReporProject\bin\Debug\ReportLibrary.pdb
+C:\Users\alper\source\repos\ReporProject\ReporProject\bin\Debug\ExcelDataReader.pdb
+C:\Users\alper\source\repos\ReporProject\ReporProject\bin\Debug\ExcelDataReader.xml
+C:\Users\alper\source\repos\ReporProject\ReporProject\obj\Debug\ReporProject.Form1.resources
+C:\Users\alper\source\repos\ReporProject\ReporProject\obj\Debug\ReporProject.csproj.CopyComplete

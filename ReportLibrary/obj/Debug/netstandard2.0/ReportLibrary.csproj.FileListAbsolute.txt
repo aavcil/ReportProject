@@ -1,0 +1,9 @@
+C:\Users\alper\source\repos\ReporProject\ReportLibrary\bin\Debug\netstandard2.0\ReportLibrary.deps.json
+C:\Users\alper\source\repos\ReporProject\ReportLibrary\bin\Debug\netstandard2.0\ReportLibrary.dll
+C:\Users\alper\source\repos\ReporProject\ReportLibrary\bin\Debug\netstandard2.0\ReportLibrary.pdb
+C:\Users\alper\source\repos\ReporProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\ReporProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\ReporProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\ReporProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.AssemblyInfo.cs
+C:\Users\alper\source\repos\ReporProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.dll
+C:\Users\alper\source\repos\ReporProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.pdb
