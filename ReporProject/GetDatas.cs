@@ -1,4 +1,4 @@
-﻿using System;
+﻿    using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -17,7 +17,7 @@ namespace ReportProject
         {
             List<WorkOrderInput> workOrders = new List<WorkOrderInput>();
 
-            string filePath = @"C:\Users\alper\Desktop\workList.xlsx";
+            string filePath = @".\Data\workList.xlsx";
 
             FileStream stream = File.Open(filePath, FileMode.Open, FileAccess.Read);
             IExcelDataReader excelReader;
@@ -64,7 +64,7 @@ namespace ReportProject
         {
             List<StopInput> stops = new List<StopInput>();
 
-            string filePath = @"C:\Users\alper\Desktop\stopList.xlsx";
+            string filePath = @".\Data\stopList.xlsx";
 
             FileStream stream = File.Open(filePath, FileMode.Open, FileAccess.Read);
             IExcelDataReader excelReader;
