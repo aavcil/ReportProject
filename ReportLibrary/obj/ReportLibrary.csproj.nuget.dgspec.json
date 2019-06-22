@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alperen\\Desktop\\ReportProject\\ReportLibrary\\ReportLibrary.csproj": {}
+    "C:\\Users\\alper\\Desktop\\ReportProject\\ReportLibrary\\ReportLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alperen\\Desktop\\ReportProject\\ReportLibrary\\ReportLibrary.csproj": {
+    "C:\\Users\\alper\\Desktop\\ReportProject\\ReportLibrary\\ReportLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alperen\\Desktop\\ReportProject\\ReportLibrary\\ReportLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Desktop\\ReportProject\\ReportLibrary\\ReportLibrary.csproj",
         "projectName": "ReportLibrary",
-        "projectPath": "C:\\Users\\Alperen\\Desktop\\ReportProject\\ReportLibrary\\ReportLibrary.csproj",
-        "packagesPath": "C:\\Users\\Alperen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alperen\\Desktop\\ReportProject\\ReportLibrary\\obj\\",
+        "projectPath": "C:\\Users\\alper\\Desktop\\ReportProject\\ReportLibrary\\ReportLibrary.csproj",
+        "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alper\\Desktop\\ReportProject\\ReportLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alperen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

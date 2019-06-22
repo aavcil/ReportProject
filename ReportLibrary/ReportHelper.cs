@@ -32,6 +32,11 @@ namespace ReportLibrary
                     {
                         time = (int) (workOrder.EndDate - stop.StartDate).TotalMinutes;
                     }
+                    else if (stop.StartDate<workOrder.StartDate && stop.EndDate> workOrder.StartDate)
+
+                    {
+                        time = (int)(stop.EndDate - workOrder.StartDate).TotalMinutes;
+                    }
                     else
                     {
                         time = 0;

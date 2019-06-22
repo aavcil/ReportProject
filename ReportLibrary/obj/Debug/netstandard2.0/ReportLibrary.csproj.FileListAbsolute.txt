@@ -16,3 +16,12 @@ C:\Users\Alperen\Desktop\ReportProject\ReportLibrary\obj\Debug\netstandard2.0\Re
 C:\Users\Alperen\Desktop\ReportProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.AssemblyInfo.cs
 C:\Users\Alperen\Desktop\ReportProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.dll
 C:\Users\Alperen\Desktop\ReportProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.pdb
+C:\Users\alper\Desktop\ReportProject\ReportLibrary\bin\Debug\netstandard2.0\ReportLibrary.deps.json
+C:\Users\alper\Desktop\ReportProject\ReportLibrary\bin\Debug\netstandard2.0\ReportLibrary.dll
+C:\Users\alper\Desktop\ReportProject\ReportLibrary\bin\Debug\netstandard2.0\ReportLibrary.pdb
+C:\Users\alper\Desktop\ReportProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.csprojAssemblyReference.cache
+C:\Users\alper\Desktop\ReportProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\ReportProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\ReportProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.AssemblyInfo.cs
+C:\Users\alper\Desktop\ReportProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.dll
+C:\Users\alper\Desktop\ReportProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.pdb
